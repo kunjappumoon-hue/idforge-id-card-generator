@@ -1,0 +1,8 @@
+{
+  "name": "IdForge ID Card Generator",
+  "description": "Design custom ID card templates, import Excel or CSV spreadsheets, drag-and-position data fields, and generate bulk printable ID cards with barcode, QR code, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
